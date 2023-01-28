@@ -31,4 +31,16 @@ function MM_openBrWindow(theURL,winName,features) {window.open(theURL,winName,fe
 
 
 </a>
+<table width="100%" onclick="window.open('xxxx.com', '_blank')" 
+
+style="CURSOR:hand">
+
+<tr>
+
+<td height="100" bgcolor="f4f4f4"> </td>
+
+</tr>
+
+</table>
+
 
